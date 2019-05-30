@@ -4,3 +4,4 @@ function shout (string) {
   function wisper (string) {
     returns string.toLowerCase()
   }
+}
